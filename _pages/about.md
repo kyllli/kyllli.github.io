@@ -23,6 +23,6 @@ Honor Thesis
 Curriculum Project Highlights
 ======
 1. Unemployment Rate Prediction, advised by Professor [Ming-Long Lam](https://datascience.uchicago.edu/people/ming-long-lam-phd/) at Uchicago. [[Code]](https://github.com/kyllli/ADSP-31014-Unemployment-Rate-Prediction)
-2. E-Commerce-Customer-Behavior-Analysis, advised by Professor [Abid Ali](https://datascience.uchicago.edu/people/abid-ali-phd/) at Uchicago. [[Code]](https://github.com/kyllli/ADSP-31012-E-Commerce-Customer-Behavior-Analysis)
+2. E-Commerce Customer Behavior Analysis, advised by Professor [Abid Ali](https://datascience.uchicago.edu/people/abid-ali-phd/) at Uchicago. [[Code]](https://github.com/kyllli/ADSP-31012-E-Commerce-Customer-Behavior-Analysis)
 3. Ice Curling Analysis, advised by Professor [Mario Giacomazzo](https://stor.unc.edu/faculty-member/giacomazzo-mario/) at UNC-Chapel Hill. [[Paper]](/files/STOR%20538%20Championship%20Final%20Paper.pdf)
 4. Movies Profit Prediction, advised by Professor [Mario Giacomazzo](https://stor.unc.edu/faculty-member/giacomazzo-mario/) at UNC-Chapel Hill. [[Paper]](/files/Final%20Paper.html) [[Code]](https://github.com/kyllli/STOR320-Movies-Profit-Prediction-Project)
